@@ -1,0 +1,22 @@
+[
+  {
+    "key": "now_playing",
+    "name": "Now Playing",
+    "query": "now_playing"
+  },
+  {
+    "key": "popular",
+    "name": "Popular",
+    "query": "popular"
+  },
+  {
+    "key": "top_rated",
+    "name": "Top Rated",
+    "query": "top_rated"
+  },
+  {
+    "key": "Upcoming",
+    "name": "Upcoming",
+    "query": "upcoming"
+  }
+]

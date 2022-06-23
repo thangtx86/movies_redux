@@ -1,0 +1,1 @@
+export const LOADING_SET_CONFIG = '[LOADING] SET_CONFIG';

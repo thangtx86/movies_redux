@@ -1,0 +1,1 @@
+export const THEMOVIEDB_API_KEY = 'THEMOVIEDB_API_KEY';
